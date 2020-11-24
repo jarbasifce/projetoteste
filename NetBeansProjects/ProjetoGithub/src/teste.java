@@ -8,9 +8,6 @@
  *
  * @author jarbasfito
  */
-public class main {
-    public static void main(String[] args) {
-        Pessoa p = new Pessoa();
-        
-    }
+public class teste {
+    
 }
