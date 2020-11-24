@@ -9,5 +9,5 @@
  * @author jarbasfito
  */
 public class teste {
-    
+    String a;
 }
